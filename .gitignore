@@ -1,0 +1,3 @@
+data/*.csv
+notebook/.ipynb_checkpoints/
+notebook/untitled.txt
